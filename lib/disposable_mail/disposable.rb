@@ -1110,6 +1110,7 @@ module DisposableMail
         "mailed.ro",
         "maileimer.de",
         "mailexpire.com",
+        "maileme101.com",
         "mailfa.tk",
         "mailforspam.com",
         "mailfree.ga",
