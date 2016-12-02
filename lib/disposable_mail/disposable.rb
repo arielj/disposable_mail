@@ -1091,6 +1091,7 @@ module DisposableMail
         "mailbidon.com",
         "mailbiz.biz",
         "mailblocks.com",
+        "mailbox92.biz",
         "mailbucket.org",
         "mailcat.biz",
         "mailcatch.com",
