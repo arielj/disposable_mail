@@ -1222,6 +1222,7 @@ module DisposableMail
         "moburl.com",
         "mockmyid.com",
         "mohmal.com",
+        "mohmal.im",
         "momentics.ru",
         "moncourrier.fr.nf",
         "monemail.fr.nf",
