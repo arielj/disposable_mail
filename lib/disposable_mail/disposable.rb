@@ -2116,7 +2116,7 @@ module DisposableMail
         "yxzx.net",
         "z1p.biz",
         "za.com",
-        "zain.site"
+        "zain.site",
         "zainmax.net",
         "ze.gally.jp",
         "zebins.com",
