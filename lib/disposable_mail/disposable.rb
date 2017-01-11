@@ -1255,6 +1255,7 @@ module DisposableMail
         "muchomail.com",
         "mucincanon.com",
         "mutant.me",
+        'mvrht.com',
         "mwarner.org",
         "mx0.wwwnew.eu",
         "mxfuel.com",
