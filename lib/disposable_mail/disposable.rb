@@ -882,6 +882,7 @@ module DisposableMail
         "ihateyoualot.info",
         "iheartspam.org",
         "ikbenspamvrij.nl",
+        'iku.us',
         "illistnoise.com",
         "ilovespam.com",
         "imails.info",
