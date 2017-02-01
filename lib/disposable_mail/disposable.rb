@@ -1336,6 +1336,7 @@ module DisposableMail
         "nonspam.eu",
         "nonspammer.de",
         "noref.in",
+        'norih.com',
         "norseforce.com",
         "nospam.wins.com.br",
         "nospam.ze.tc",
